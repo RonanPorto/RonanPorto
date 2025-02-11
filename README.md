@@ -13,7 +13,7 @@ Here's a bit more about me:
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C#, Java, JavaScript, TypeScript, Dart, Swift, Kotlin, Php, Html, Css
-- **Frameworks:** Flutter, 
+- **Languages:** C#, Java, JavaScript, TypeScript, Dart, Swift, Kotlin, Php, Html, Css.
+- **Frameworks:** Flutter.
 - **Tools:** Git, VS Code
 - **Databases:** MySQL, MongoDB
