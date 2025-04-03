@@ -14,6 +14,6 @@ Here's a bit more about me:
 ## 🛠️ Tech Stack
 
 - **Languages:** C#, Java, JavaScript, TypeScript, Dart, Swift, Kotlin, Php, Html, Css.
-- **Frameworks:** Flutter, Laravel
+- **Frameworks:** Flutter, Laravel.
 - **Tools:** Git, VS Code, Xcode, Android Studio
 - **Databases:** MySQL, MongoDB
