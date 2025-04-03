@@ -15,5 +15,5 @@ Here's a bit more about me:
 
 - **Languages:** C#, Java, JavaScript, TypeScript, Dart, Swift, Kotlin, Php, Html, Css.
 - **Frameworks:** Flutter, Laravel.
-- **Tools:** Git, VS Code, Xcode, Android Studio
-- **Databases:** MySQL, MongoDB
+- **Tools:** Git, VS Code, Visual Studio, Xcode, Android Studio.
+- **Databases:** MySQL, MongoDB.
